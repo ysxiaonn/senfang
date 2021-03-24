@@ -18090,3 +18090,35 @@
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
+#u1300_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:299px;
+  height:15px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#FFFFFF;
+}
+#u1300 {
+  position:absolute;
+  left:378px;
+  top:880px;
+  width:299px;
+  height:15px;
+  font-size:12px;
+  color:#FFFFFF;
+}
+#u1301 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:299px;
+  white-space:nowrap;
+}
